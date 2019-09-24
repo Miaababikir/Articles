@@ -10,7 +10,7 @@ In this article we will give you most of web development resources that can help
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [Bootstrap](#bootstrap)
-* [Nice Stuff](#:tada:-nice-stuff)
+* [Nice Stuff](#nice-stuff)
 
 > I can't tell where the journey will end, But I know where to start :wink:
 
@@ -68,24 +68,24 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS, it wi
 * [Bootstrap 4 Tutorials - The net ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv)
 
 
-## :tada: Nice Stuff
+## Nice Stuff
 
 >Look If you had One shot. Or one opportunity. To seize everything you ever wanted. In one moment. Would you capture it? Or just let it slip?
 
-### Code Editors
+### :computer: Code Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * [VS code](https://code.visualstudio.com/)
 
-### Websites 
+### :paperclip: Websites 
 * [W3school](https://www.w3schools.com/html)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 
-### Apps that could help you
+### :iphone: Apps that could help you
 * [Solo Learn](https://www.sololearn.com/)
 * [Dcoder IDE for your phone](https://dcoder.tech/)
 
-### Videos for you
+### :tv: Videos for you
 * [Why I Should Learn The Basics? - Elzero web school](https://www.youtube.com/watch?v=j-MPYaSuQF4&list=PLDoPjvoNmBAy0LMYbcXDxts0cRnX6bcWY&index=7&t=0s)
 * [What Time I Need To Learn Something? - Elzero web school](https://www.youtube.com/watch?v=cYMuoAJJhcE&list=PLDoPjvoNmBAy0LMYbcXDxts0cRnX6bcWY&index=8)
 * [Elzero Week - Elzero web school](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9ba3wYS11XbXStuex9CM6)
