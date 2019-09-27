@@ -24,6 +24,7 @@ It's the first thing you should start learning when you start in web development
 * [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * [HTML Tutorials For Beginners - The net ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 * [HTML Full Course - Build a Website Tutorial - freeCodeCamp.org](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+* [HTML and CSS Tutorials - mmtuts](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 
 ## CSS
